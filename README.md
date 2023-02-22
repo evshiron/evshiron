@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a passionate web developer ✨
+
+## Favorite Languages
+
+JavaScript, TypeScript, Rust, Go
+
+## Favorite Frameworks
+
+React.js, Vue.js, Next.js, Nest.js
+
+## Disliked Stuffs
+
+ESM
