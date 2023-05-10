@@ -24,7 +24,3 @@ JavaScript, TypeScript, Rust, Go
 ## Favorite Frameworks
 
 React.js, Vue.js, Next.js, Nest.js
-
-## Disliked Stuffs
-
-ESM
